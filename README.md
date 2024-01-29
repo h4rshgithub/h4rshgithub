@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @h4rshgithub
+- 👋 Hi, I’m Harsh Singh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development and DSA
 - 💞️ I’m looking to collaborate on projects
