@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Harsh Singh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development and DSA
+- 👀 I’m interested in development
+- 🌱 I’m currently learning MERN stack development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me . you can follow me on instagram (@itz___harshrajput)
+- 📫 How to reach me ->  you can dm me on instagram (@itz___harshrajput) or on linkedIn
 
 <!---
 h4rshgithub/h4rshgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
