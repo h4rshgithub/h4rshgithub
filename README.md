@@ -9,10 +9,10 @@
       <td align="left" style="border: none; background: transparent;">
         <h1 style="margin: 0; font-size: 2.2em;">Hello &nbsp;<img src="./icons/wave.gif" width="40"> , I'm <span style="color: #38bdf8;">Harsh Singh</span></h1>
         <p style="margin-top: 5px; font-size: 1.1em; color: #94a3b8;">
-          Full-Stack Software Engineer | Problem Solver (900+ DSA) | President @ RTU Coders
+          Full-Stack Software Engineer | Problem Solver (1500+ DSA) | President @ RTU Coders
         </p>
         <p style="margin: 0;">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Full-Stack+Software+Developer;900%2B+DSA+Problems+Solved;Go+%7C+Node.js+%7C+React+%7C+AWS+Lambda;Global+Rank+396+LeetCode+Biweekly+153;President+%40+RTU+Coders;" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Full-Stack+Software+Developer;1500%2B+DSA+Problems+Solved;Go+%7C+Node.js+%7C+React+%7C+AWS+Lambda;Global+Rank+396+LeetCode+Biweekly+153;President+%40+RTU+Coders;" alt="Typing SVG" />
         </p>
       </td>
     </tr>
